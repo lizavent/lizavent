@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lizavent
 - 👀 I’m interested in research (both quantitative and qualitative).
-- 🌱 I’m currently learning how to use R.
+- 🌱 I’m currently furthering my skills in using R.
 - 📫 How to reach me: Twitter: @Liz_Avent LinkedIn: Elizabeth Avent
 
 <!---
